@@ -1,0 +1,21 @@
+.header__lang {
+  color: #FFFFFF;
+  text-decoration: none;
+  width: 30px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: calc(28 / 24);
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang {
+    width: 22px;
+    font-size: 18px;
+    line-height: 1.1;
+  }
+}
+
+.header__lang:hover {
+  opacity: 0.8;
+}

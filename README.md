@@ -22,4 +22,4 @@
 
 Удачи!
 
-Просмотр проекта доступен по ссылке: https://severinvest.github.io/russian-travel/index.html
+Проект доступен по ссылке: https://severinvest.github.io/russian-travel/index.html
