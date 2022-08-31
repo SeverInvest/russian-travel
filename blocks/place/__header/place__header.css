@@ -1,5 +1,4 @@
 .place__header {
-  padding: 80px 0 0;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -7,20 +6,8 @@
   column-gap: 40px;
 }
 
-.place__header:first-child {
-  padding-top: 0;
-}
-
-@media screen and (max-width: 1023px) {
-  .place__header {
-    padding-top: 73;
-  }
-}
-
-
 @media screen and (max-width: 767px) {
   .place__header {
-    padding-top: 64;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
