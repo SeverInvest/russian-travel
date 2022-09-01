@@ -24,15 +24,11 @@
       max-width: 768px;
       padding-left: 0;
       padding-right: 0;
-      padding-top: 48px;
     }
   }
   
   @media screen and (max-width: 767px) {
     .lead {
       max-width: 320px;
-      padding-left: 0;
-      padding-right: 0;
-      padding-top: 48px;
     }
   }

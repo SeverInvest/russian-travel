@@ -28,9 +28,7 @@
     max-width: calc(320px - 16px);
     padding-right: 0;
     padding-left: 16px;
-    display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: flex-start;
   }
 }
