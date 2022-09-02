@@ -7,9 +7,22 @@
   column-gap: 40px;
 }
 
+@media screen and (max-width: 1279px) {
+  .place__content {
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .place__content {
+    align-items: flex-end;
+    column-gap: 28px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .place__content {
-    padding-top: 42px;
+    padding-top: 32px;
     flex-direction: column;
     row-gap: 32px;
   }
