@@ -15,7 +15,7 @@
 
 @media screen and (max-width: 1023px) {
   .place__content {
-    align-items: flex-end;
+    align-items: flex-start;
     column-gap: 28px;
   }
 }
